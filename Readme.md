@@ -6,5 +6,6 @@ SW MW LW and FM Radio with touchscreen
 ### Photos
 ### “Top Pcb”
 ![Photo 1]( https://github.com/Vwbeetle2/TTGO/blob/main/Pcb.JPG)
+TTGO code is here: https://github.com/Vwbeetle2/TTGO/blob/main/Code.zip
 
 
