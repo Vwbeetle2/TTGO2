@@ -1,4 +1,5 @@
 Made a own pcb with si4735 and TTGO esp32.
+## About the original project
 Thiago has made this working, thx!
 Soft from PE0MGB/PU2CLR, mod by RXavier.
 SW MW LW and FM Radio with touchscreen
@@ -9,4 +10,11 @@ SW MW LW and FM Radio with touchscreen
 Schematic was made by me.
 ![Schematic]( https://github.com/RSZ-Nld/Si4735_Display/blob/master/Si4735_ESP32_Radio.JPG)
 Gerber.zip Are the Gerber files for the pcb.
+### “Top Pcb Finish”
+![Photo 4]( https://github.com/RSZ-Nld/Si4735_Display/blob/master/949.jpg)
+
+4735_Display.zip or Gerber.zip Are the Gerber files for the pcb.
+
+Video of the radio:  https://youtu.be/0avQV0qei24
+
 
